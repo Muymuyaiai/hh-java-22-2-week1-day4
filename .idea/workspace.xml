@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56bed453-9c9e-4f83-b022-8c31533215eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="56bed453-9c9e-4f83-b022-8c31533215eb" name="Changes" comment="Initial alarm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Alarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AlarmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AlarmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FacTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FacTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,32 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.FacTest">
+    <configuration name="AlarmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hh-java-22-2-week1-day4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlarmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hh-java-22-2-week1-day4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FacTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FacTest" />
+        <item itemvalue="JUnit.AlarmTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662020588732</updated>
-      <workItem from="1662020590092" duration="647000" />
+      <workItem from="1662020590092" duration="5150000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial alarm">
+      <created>1662021327599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662021327599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial alarm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial alarm" />
   </component>
 </project>
